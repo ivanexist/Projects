@@ -33,7 +33,7 @@
     {
       "service_id": 1,
       "service_name": "Street Construction",
-      "service_image": "1",
+      "service_image": "Pembangunan-Jalan/Proses-2-jalan.jpeg",
       "description": [
         {
           "description_overview": "PT Gemilang Cipta Sentosa specializes in constructing and repairing streets to ensure safe, durable, and well-designed roadways, including asphalt and concrete paving.",
@@ -46,7 +46,7 @@
     {
       "service_id": 2,
       "service_name": "House Construction",
-      "service_image": "1",
+      "service_image": "Rumneg-T45-Lantamal-V/Side-1.jpg",
       "description": [
         {
           "description_overview": "The company provides comprehensive house construction services, covering everything from planning and design to building and finishing, creating high-quality, lasting residential spaces.",
@@ -59,7 +59,7 @@
     {
       "service_id": 3,
       "service_name": "Pipe Installation",
-      "service_image": "1",
+      "service_image": "Pipa-Pelindo-Energi-Logistik/Side-3.jpg",
       "description": [
         {
           "description_overview": "Skilled in pipe installation for both residential and commercial needs, PT Gemilang Cipta Sentosa offers efficient and reliable services for water supply, drainage, and sewage systems.",
@@ -72,7 +72,7 @@
     {
       "service_id": 4,
       "service_name": "Building  Construction",
-      "service_image": "1",
+      "service_image": "Gedung-Barak-Kowal-Lantamal-VI/Side-2.jpeg",
       "description": [
         {
           "description_overview": "This includes construction of commercial and industrial buildings, with a focus on structural integrity, safety, and adherence to client specifications and project timelines.",
@@ -203,7 +203,7 @@
     {
       "project_id": 7,
       "client_id": 4,
-      "service_id": 5,
+      "service_id": 6,
       "project_name": "Pembangunan Gedung Shelter Filling Station",
       "description": "testung",
       "location": "Gresik",
