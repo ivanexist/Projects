@@ -214,21 +214,6 @@
         "Shelter-Filling-Station/Side-1.jpg",
         "Shelter-Filling-Station/Side-2.jpg"
       ]
-    },
-    {
-      "project_id": 8,
-      "client_id": 4,
-      "service_id": 4,
-      "project_name": "Pembangunan Rumah Negara T45 Pesapen 2",
-      "description": "testung",
-      "location": "Surabaya",
-      "year_completed": "2021",
-      "images": [
-        "Rumneg-T45-Lantamal-V-Pesapen/Side-1.jpeg",
-        "Rumneg-T45-Lantamal-V-Pesapen/Side-2.jpeg",
-        "Rumneg-T45-Lantamal-V-Pesapen/Side-3.jpeg",
-        "Rumneg-T45-Lantamal-V-Pesapen/Side-4.jpeg"
-      ]
     }
   ]
 }
