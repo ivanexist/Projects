@@ -214,6 +214,21 @@
         "Shelter-Filling-Station/Side-1.jpg",
         "Shelter-Filling-Station/Side-2.jpg"
       ]
+    },
+    {
+      "project_id": 8,
+      "client_id": 1,
+      "service_id": 4,
+      "project_name": "Pembangunan Gedung Flat T45 Marinir",
+      "description": "testung",
+      "location": "Sorong, Papua Barat Daya",
+      "year_completed": "2023 - 2024",
+      "images": [
+        "Gedung-Flat-T-45-Marinir/Side-1.jpg",
+        "Gedung-Flat-T-45-Marinir/Side-2.jpg",
+        "Gedung-Flat-T-45-Marinir/Side-3.jpg",
+        "Gedung-Flat-T-45-Marinir/Side-4.jpg"
+      ]
     }
   ]
 }
