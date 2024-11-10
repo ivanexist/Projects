@@ -214,21 +214,6 @@
         "Shelter-Filling-Station/Side-1.jpg",
         "Shelter-Filling-Station/Side-2.jpg"
       ]
-    },
-    {
-      "project_id": 8,
-      "client_id": 4,
-      "service_id": 4,
-      "project_name": "Pembangunan Gedung Shelter Filling Station",
-      "description": "testung",
-      "location": "Gresik",
-      "year_completed": "2020",
-      "images": [
-        "Shelter-Filling-Station/Proses-1.jpeg",
-        "Shelter-Filling-Station/Proses-2.jpeg",
-        "Shelter-Filling-Station/Side-1.jpg",
-        "Shelter-Filling-Station/Side-2.jpg"
-      ]
     }
   ]
 }
