@@ -229,6 +229,21 @@
         "Gedung-Flat-T45-Marinir/Side-3.jpg",
         "Gedung-Flat-T45-Marinir/Side-4.jpg"
       ]
+    },
+    {
+      "project_id": 9,
+      "client_id": 1,
+      "service_id": 4,
+      "project_name": "Pemasangan Saluran U-Ditch Terminal Teluk Lamong",
+      "description": "testung",
+      "location": "Gresik, Jawa Timur",
+      "year_completed": "2020",
+      "images": [
+        "Saluran-U-Ditch-Terminal-Teluk-Lamong/Side-1.jpg",
+        "Saluran-U-Ditch-Terminal-Teluk-Lamong/Side-2.jpg",
+        "Saluran-U-Ditch-Terminal-Teluk-Lamong/Side-3.jpg",
+        "Saluran-U-Ditch-Terminal-Teluk-Lamong/Side-4.jpg"
+      ]
     }
   ]
 }
